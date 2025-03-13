@@ -1,0 +1,172 @@
+{
+  "startingRoom": "ChumBucketKitchen",
+  "endingRoom": "KrustyKrabDumpster",
+  "rooms": [
+    {
+      "name": "ChumBucketKitchen",
+      "description": "You are in the kitchen of the Chum Bucket.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=KKukCSjM-GM&ab_channel=Solidizm",
+      "imageLink" : "https://i.imgur.com/7O3uQTC.jpg?fb",
+      "items" : [],
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "ChumBucketEntrance"
+        }
+      ]
+    },
+    {
+      "name": "ChumBucketEntrance",
+      "description": "You are in the entrance of the Chum Bucket.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=3eVORWdzMfE&ab_channel=StupidRich",
+      "imageLink" : "https://preview.redd.it/ige20v08ke9z.jpg?auto=webp&s=c6a1db63a4951f0a5e6d2a2caf51bb0bef20d447",
+      "items" : ["hat", "gloves"],
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "Road"
+        },
+        {
+          "directionName": "South",
+          "room": "ChumBucketKitchen"
+        }
+      ]
+    },
+    {
+      "name": "Road",
+      "description": "You are standing in the road between the Krusty Krab and the Chum Bucket. You see Patrick lying on the ground east of the street.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=nKdXyIPam9Q&ab_channel=RichardTheImaginator",
+      "imageLink" : "https://static.wikia.nocookie.net/spongebob/images/6/69/My_Two_Krabses_001.png/revision/latest?cb=20200720150200",
+      "items" : [],
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "KrustyKrabEntrance"
+        },
+        {
+          "directionName": "East",
+          "room": "PatrickOnGround"
+        },
+        {
+          "directionName": "South",
+          "room": "ChumBucketEntrance"
+        }
+      ]
+    },
+    {
+      "name": "PatrickOnGround",
+      "description": "You are standing on top of Patrick.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=R7BiKZbKffk&ab_channel=Branbados",
+      "imageLink" : "https://i.redd.it/u3knp1bat4dx.jpg",
+      "items" : ["patrick"],
+      "directions": [
+        {
+          "directionName": "West",
+          "room": "Road"
+        }
+      ]
+    },
+    {
+      "name": "KrustyKrabEntrance",
+      "description": "You are in the Krusty Krab. You see the bathroom to the right, the kitchen north, the register forward, and the office of Mr. Krabs on the left.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=y5SFLFHLpeo&ab_channel=DemureTV",
+      "imageLink" : "https://i0.wp.com/spongebobia.com/spongebob-captures/content/episodes/galleries/025b%20-%20Patty%20Hype/025b%20-%20Patty%20Hype%20(030).jpg",
+      "items" : [],
+      "directions": [
+        {
+          "directionName": "Right",
+          "room": "Bathroom"
+        },
+        {
+          "directionName": "Forward",
+          "room": "SquidwardsRegister"
+        },
+        {
+          "directionName": "North",
+          "room": "SpongebobsKitchen"
+        },
+        {
+          "directionName": "Left",
+          "room": "MrKrabsOffice"
+        },
+        {
+          "directionName": "South",
+          "room": "Road"
+        }
+      ]
+    },
+    {
+      "name": "SquidwardsRegister",
+      "description": "You are in the register of Squidward.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=JqbFblAQN0c&ab_channel=pacers1755",
+      "imageLink" : "https://steamuserimages-a.akamaihd.net/ugc/89350985480479736/BB20983E389C1A3226AF777B1B920561DA740087/",
+      "items" : ["coin"],
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "KrustyKrabEntrance"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom",
+      "description": "You are in the bathroom.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=tsDIggSSTyI&ab_channel=OmoniyiAdenusi",
+      "imageLink" : "https://pbs.twimg.com/media/DJkOXXdVYAEHZsy.jpg",
+      "items" : [],
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "KrustyKrabEntrance"
+        }
+      ]
+    },
+    {
+      "name": "MrKrabsOffice",
+      "description": "You are in Mr. Krab's office. You can see the kitchen to the right.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=lBpMSmYP7to&ab_channel=EugeneH.Krabs",
+      "imageLink" : "https://i.ytimg.com/vi/00bSmbbw1D4/hqdefault.jpg",
+      "items" : ["formula"],
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "KrustyKrabEntrance"
+        },
+        {
+          "directionName": "Right",
+          "room": "SpongebobsKitchen"
+        }
+      ]
+    },
+    {
+      "name": "SpongebobsKitchen",
+      "description": "You are in the kitchen of the Krusty Krab. You see the dumpster outside.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=JbLWSFNEzXU&ab_channel=SMO64",
+      "imageLink" : "https://i.ytimg.com/vi/-jMD1TW8ssQ/maxresdefault.jpg",
+      "items" : [],
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "KrustyKrabDumpster"
+        },
+        {
+          "directionName": "South",
+          "room": "KrustyKrabEntrance"
+        }
+      ]
+    },
+    {
+      "name": "KrustyKrabDumpster",
+      "description": "You are in the Krusty Krab Dumpster.",
+      "youtubeLink" : "https://www.youtube.com/watch?v=bifmGtO56-Y&ab_channel=100OwlProductions",
+      "imageLink" : "https://i.redd.it/zmam51fu6zs01.jpg",
+      "items" : [],
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "SpongebobsKitchen"
+        }
+      ]
+    }
+  ]
+}
