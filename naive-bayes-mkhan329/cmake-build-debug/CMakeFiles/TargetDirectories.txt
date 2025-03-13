@@ -1,0 +1,5 @@
+C:/Users/moyee/Downloads/cinder_0.9.2_vc2015/cinder/my-projects/naive-bayes-mkhan329/cmake-build-debug/CMakeFiles/naive-bayes-test.dir
+C:/Users/moyee/Downloads/cinder_0.9.2_vc2015/cinder/my-projects/naive-bayes-mkhan329/cmake-build-debug/CMakeFiles/train-model.dir
+C:/Users/moyee/Downloads/cinder_0.9.2_vc2015/cinder/my-projects/naive-bayes-mkhan329/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/moyee/Downloads/cinder_0.9.2_vc2015/cinder/my-projects/naive-bayes-mkhan329/cmake-build-debug/CMakeFiles/sketchpad-classifier.dir
+C:/Users/moyee/Downloads/cinder_0.9.2_vc2015/cinder/my-projects/naive-bayes-mkhan329/cmake-build-debug/CMakeFiles/rebuild_cache.dir
